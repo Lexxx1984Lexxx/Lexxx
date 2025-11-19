@@ -1,0 +1,16 @@
+{
+  "name": "ton-nft-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for saving messages as NFT on TON",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "sqlite3": "^5.1.6"
+  },
+  "keywords": ["telegram", "bot", "nft", "ton"],
+  "author": "lexxdark2109",
+  "license": "MIT"
+}
